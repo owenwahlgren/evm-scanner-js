@@ -1,5 +1,5 @@
 # EVM-SCANNER (WiP)
-Connect to a AWS Managed-blockchain node and scan the incoming mempool
+Connect to a AWS Managed-blockchain node and log the incoming mempool using known Contract ABIS to decode txn data
 
 ## Future plans
 - Integrate sending Flashbot bundles
